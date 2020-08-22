@@ -2,7 +2,11 @@
   "name": "mosters-rolodex",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://Rayleigh0328.github.io/mosters-rolodex/",
+=======
+  "homepage": "https://rayleigh0328.github.io/mosters-rolodex/",
+>>>>>>> 25ed38e5f844e4a737ca33d02f095657fca2aaba
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
